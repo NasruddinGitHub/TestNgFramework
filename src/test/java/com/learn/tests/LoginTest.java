@@ -9,5 +9,6 @@ public class LoginTest {
 		System.out.println("Hello World!");
 		System.out.println("Upstream");
 		System.out.println("Local");
+		System.out.println("Test");
 	}
 }
