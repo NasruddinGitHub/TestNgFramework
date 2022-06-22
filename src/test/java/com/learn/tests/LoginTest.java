@@ -20,5 +20,6 @@ public class LoginTest {
 	public void testGit() {
 		System.out.println("This is created from main branch");
 		System.out.println("Added this line from github");
+		System.out.println("Amend the commit from egit");
 	}
 }
