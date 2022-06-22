@@ -1,0 +1,3 @@
+public void getText(){
+System.out.println("This is getText method writing from github");
+}
