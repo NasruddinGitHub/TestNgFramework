@@ -8,6 +8,7 @@ public class LoginTest {
 	public void displayMessageToConsole() {
 		
 		
+		
 		System.out.println("Creating tags");
 		System.out.println("Testing push via remote option");
 	}
