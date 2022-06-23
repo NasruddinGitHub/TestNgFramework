@@ -7,5 +7,6 @@ public class LoginTest {
 	@Test
 	public void displayMessageToConsole() {
 		System.out.println("Testing push via remote option");
+		System.out.println("Pushing to another branch");
 	}
 }
