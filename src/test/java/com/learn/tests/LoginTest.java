@@ -6,6 +6,7 @@ public class LoginTest {
 
 	@Test
 	public void displayMessageToConsole() {
+		System.out.println("Checking git pull.. one more time in egit");
 		System.out.println("Checking git pull.. in egit");
 		System.out.println("Checking git pull after git fetch");
 		System.out.println("Testing git fetch and merge once from the eclipse");
