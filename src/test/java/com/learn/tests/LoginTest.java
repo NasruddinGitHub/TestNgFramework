@@ -11,5 +11,6 @@ public class LoginTest {
 		System.out.println("Local");
 		System.out.println("Test");
 		System.out.println("Pushing from history");
+		System.out.println("Push to upstream");
 	}
 }
