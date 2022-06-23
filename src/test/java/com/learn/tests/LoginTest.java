@@ -14,5 +14,6 @@ public class LoginTest {
 		System.out.println("Push to upstream");
 		System.out.println("Push to remote tracking");
 		System.out.println("Push branch");
+		System.out.println("Changes");
 	}
 }
