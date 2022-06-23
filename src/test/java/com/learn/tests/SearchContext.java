@@ -11,6 +11,7 @@ public class SearchContext {
 		System.out.println("Creating line from remote server");
 		System.out.println("Creating one more line from remote server");
 		
+		
 	}
 
 }
