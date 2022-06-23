@@ -6,6 +6,7 @@ public class LoginTest {
 
 	@Test
 	public void displayMessageToConsole() {
+		System.out.prinln("Testing git pull from the eclipse");
 		System.out.println("Hello World!");
 		System.out.println("Upstream");
 		System.out.println("Local");
