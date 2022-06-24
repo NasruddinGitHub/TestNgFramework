@@ -10,6 +10,7 @@ public class LoginTest {
 		System.out.println("Made a change in registration");
 	}
 
+	
 	@Test
 	public void sum() {
 		int a, b;
