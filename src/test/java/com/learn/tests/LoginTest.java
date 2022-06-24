@@ -10,6 +10,7 @@ public class LoginTest {
 		System.out.println("Made a change in registration");
 		System.out.println("first commit");
 		System.out.println("second commit");
+		System.out.println("Third commit");
 	}
 
 	
