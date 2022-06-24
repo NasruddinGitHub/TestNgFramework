@@ -9,6 +9,7 @@ public class LoginTest {
 		System.out.println("Hello World!");
 		System.out.println("Made a change in registration");
 		System.out.println("first commit");
+		System.out.println("second commit");
 	}
 
 	
