@@ -8,18 +8,7 @@ public class LoginTest {
 	public void displayMessageToConsole() {
 		System.out.println("Hello World!");
 		System.out.println("Created from egit");
+		System.out.println("Let's have a single test");
 	}
 
-	@Test
-	public void displayDuplicateMessageToConsole() {
-		System.out.println("Hello World!");
-		System.out.println("Created from egit");
-	}
-
-	@Test
-	public void testGit() {
-		System.out.println("This is created from main branch");
-		System.out.println("Added this line from github");
-		System.out.println("Amend the commit from egit");
-	}
 }
