@@ -8,6 +8,7 @@ public class LoginTest {
 	public void displayMessageToConsole() {
 		System.out.println("Hello World!");
 		System.out.println("Made a change in registration");
+		System.out.println("first commit");
 	}
 
 	
