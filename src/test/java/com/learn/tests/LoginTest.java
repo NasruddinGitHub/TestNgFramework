@@ -22,6 +22,7 @@ public class LoginTest {
 		b = 200;
 		System.out.println(a + b);
 		System.out.println("This commit is from regis");
+		System.out.println("This commit is from regis2");
 
 	}
 }
