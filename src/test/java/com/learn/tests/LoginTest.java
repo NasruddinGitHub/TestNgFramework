@@ -21,6 +21,7 @@ public class LoginTest {
 		a = 100;
 		b = 200;
 		System.out.println(a + b);
+		System.out.println("This commit is from regis");
 
 	}
 }
